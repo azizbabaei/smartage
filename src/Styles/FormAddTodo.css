@@ -1,0 +1,15 @@
+.section-form-add-todo {
+	background: linear-gradient(300.08deg, #acb6e5 -1.29%, #74ebd5);
+	padding-top: 10px;
+	border-radius: 0px;
+	padding-bottom: 20px;
+	margin-bottom: 0px;
+}
+.input-form-add-todo {
+	border-radius: 7px;
+	border-style: unset;
+	height: 51px;
+	width: 90%;
+	padding-left: 10px;
+	margin-bottom: 10px;
+}
